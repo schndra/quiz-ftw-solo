@@ -13,7 +13,7 @@ const catListNo = {
 };
 
 const API_URL = "https://opentdb.com/api.php?";
-const url = `https://opentdb.com/api.php?amount=10&category=21&difficulty=easy&type=multiple`;
+// const url = `https://opentdb.com/api.php?amount=10&category=21&difficulty=easy&type=multiple`;
 
 const AppProvider = ({ children }) => {
   const [isError, setIsError] = useState(false);
