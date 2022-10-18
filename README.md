@@ -1,5 +1,5 @@
 # Hosted Using Netflify
-quiz-ftw.netlify.app
+https://quiz-ftw.netlify.app/
 
 ## Tools Used
 Tailwindcss to style the components
