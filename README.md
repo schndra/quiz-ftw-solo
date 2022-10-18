@@ -2,9 +2,9 @@
 https://quiz-ftw.netlify.app/
 
 ## Tools Used
-Tailwindcss to style the components.\
-Questions Api --> https://opentdb.com/ .\
-Icons - https://react-icons.github.io/react-icons/ .\
+Used Tailwindcss to style the components.\
+Questions Api --> https://opentdb.com/ \
+Icons - https://react-icons.github.io/react-icons/
 
 # Getting Started with Create React App
 
