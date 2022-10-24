@@ -1,10 +1,32 @@
-# Hosted Using Netflify
-https://quiz-ftw.netlify.app/
+## Overview
 
-## Tools Used
-Used Tailwindcss to style the components.\
-Questions Api --> https://opentdb.com/ \
-Icons - https://react-icons.github.io/react-icons/
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+- See hover and focus states for interactive elements
+- Select different categories, difficulty level and no.of questions.
+- See the questions and answers fetched from the API - [https://opentdb.com/](https://opentdb.com/)
+- Select an answer and interact with the questions
+
+### Screenshot
+
+![](./screenshots/Screenshot%202022-10-24%20at%2019-46-03%20React%20App.png)
+![](./screenshots/Screenshot%202022-10-24%20at%2019-46-24%20React%20App.png)
+
+### Links
+
+- Live site URL : https://quiz-ftw.netlify.app/
+
+## My process
+
+### Built with
+
+- [API Used](https://opentdb.com/) - OpenDb APi
+- [React](https://reactjs.org/) - JS library
+- [TailWind](https://tailwindcss.com/) - CSS framework
+- [Icons](https://react-icons.github.io/react-icons/) - React Icons
 
 # Getting Started with Create React App
 
